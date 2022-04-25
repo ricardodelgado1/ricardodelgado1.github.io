@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/ricardodelgado1/ricardodelgado1.github.io.git/static/css/main.368c7940.css",
-    "main.js": "/ricardodelgado1/ricardodelgado1.github.io.git/static/js/main.7b40eaab.js",
-    "static/js/787.50a6764b.chunk.js": "/ricardodelgado1/ricardodelgado1.github.io.git/static/js/787.50a6764b.chunk.js",
-    "static/media/helvetica-neu.ttf": "/ricardodelgado1/ricardodelgado1.github.io.git/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/logori.png": "/ricardodelgado1/ricardodelgado1.github.io.git/static/media/logori.2346a126292de76abf19.png",
-    "static/media/logon.png": "/ricardodelgado1/ricardodelgado1.github.io.git/static/media/logon.625202dbf6c6b90d422e.png",
-    "static/media/LaBelleAurore.woff2": "/ricardodelgado1/ricardodelgado1.github.io.git/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/ricardodelgado1/ricardodelgado1.github.io.git/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "static/media/logo.svg": "/ricardodelgado1/ricardodelgado1.github.io.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ricardodelgado1/ricardodelgado1.github.io.git/index.html",
-    "main.368c7940.css.map": "/ricardodelgado1/ricardodelgado1.github.io.git/static/css/main.368c7940.css.map",
-    "main.7b40eaab.js.map": "/ricardodelgado1/ricardodelgado1.github.io.git/static/js/main.7b40eaab.js.map",
-    "787.50a6764b.chunk.js.map": "/ricardodelgado1/ricardodelgado1.github.io.git/static/js/787.50a6764b.chunk.js.map"
+    "main.css": "/static/css/main.15df6569.css",
+    "main.js": "/static/js/main.1ad93dde.js",
+    "static/js/787.67b99310.chunk.js": "/static/js/787.67b99310.chunk.js",
+    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/logori.png": "/static/media/logori.2346a126292de76abf19.png",
+    "static/media/logon.png": "/static/media/logon.625202dbf6c6b90d422e.png",
+    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/index.html",
+    "main.15df6569.css.map": "/static/css/main.15df6569.css.map",
+    "main.1ad93dde.js.map": "/static/js/main.1ad93dde.js.map",
+    "787.67b99310.chunk.js.map": "/static/js/787.67b99310.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.368c7940.css",
-    "static/js/main.7b40eaab.js"
+    "static/css/main.15df6569.css",
+    "static/js/main.1ad93dde.js"
   ]
 }
